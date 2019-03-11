@@ -2,6 +2,4 @@ this is first git file.
 <<<<<<< HEAD
 this is second line.
 this is another second line.
-=======
-this is second line
->>>>>>> 9c4fb2ebdb9acefed03c923767a99fe7d6708da8
+
